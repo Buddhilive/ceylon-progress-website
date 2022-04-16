@@ -10,7 +10,7 @@
 To install **Ceylon Progress** straight forward without any JavaScript framework, just include the following script tag just before the "head" tag on your HTML page where you want to use the web component.
 
 ```html
-<script type="module" src="https://cdn.jsdelivr.net/npm/ceylon-progress@0.0.1/dist/ceylon-progress/ceylon-progress.esm.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/npm/ceylon-progress@latest/dist/ceylon-progress/ceylon-progress.esm.js"></script>
 ```
 
 Then to use a Ceylon Progress, just use element tag like any other HTML element:

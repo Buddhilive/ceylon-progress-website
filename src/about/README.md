@@ -4,7 +4,7 @@ sidebar: auto
 
 # Story of the Dots
 
-![ceylon-progress logo](/story-of-the-dots.png)
+![ceylon-progress logo](~@source/.vuepress/public/story-of-the-dots.png)
 
 This 4 color dots concept was introduced by [Naveen Buddhika](https://www.facebook.com/Naveenb99), who is a talented graphic designer from Sri Lanka. The concept was introduced to use as the theme for the [peaceful protest](https://gohomegota.online) started on 4th April, 2022 against the corrupted Sri Lankan government.
 

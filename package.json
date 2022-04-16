@@ -1,6 +1,6 @@
 {
   "name": "ceylon-progress-website",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Open Source CSS Loading Animation Library",
   "main": "index.js",
   "authors": {
