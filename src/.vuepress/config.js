@@ -23,7 +23,7 @@ module.exports = {
     ['link', {rel: 'preconnect', href: 'https://fonts.googleapis.com', crossorigin: true}],
     ['link', {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true}],
     ['link', {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap'}],
-    ['script', {type: 'module', src: 'https://cdn.jsdelivr.net/npm/ceylon-progress@0.0.1/dist/stencil-starter-project-name/stencil-starter-project-name.esm.js'}],
+    ['script', {type: 'module', src: 'https://cdn.jsdelivr.net/npm/ceylon-progress@latest/dist/ceylon-progress/ceylon-progress.esm.js'}],
     ['link', { rel: 'icon', href: '/favicon.png' }]
   ],
 

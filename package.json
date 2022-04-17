@@ -1,13 +1,13 @@
 {
   "name": "ceylon-progress-website",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Open Source CSS Loading Animation Library",
   "main": "index.js",
   "authors": {
     "name": "Buddhi Kavindra",
     "email": "info@buddhilive.com"
   },
-  "repository": "https://github.com/BerkeliumLabs/website/website",
+  "repository": "https://github.com/Buddhilive/ceylon-progress-website",
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src --dest docs"
